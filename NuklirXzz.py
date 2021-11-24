@@ -4,7 +4,7 @@ import theards
 import random
 import times
 
-os.system("clear")
+os.system("NuklirXzz.py")
 print("""\033[070m
  
  
