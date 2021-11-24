@@ -1,5 +1,5 @@
 # NuklirXzz
 
 git clone http://github.com/FighterXzz/NuklirXzz                         
-cd FighterXzz                            
-python NuklirXzz.py                 
+cd NuklirXzz                            
+python2 FighterXzz.py                 
