@@ -4,8 +4,8 @@ import theards
 import random
 import times
 
- os.system("clear")
- print("""\033[070m
+os.system("clear")
+print("""\033[070m
  
  
  
